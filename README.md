@@ -1,4 +1,4 @@
-#About
+# About
 Firebase functions node.js project build for job tryouts at Nada. CRUD operations on firestore
 
 # Introduction 
