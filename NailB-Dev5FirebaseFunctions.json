@@ -1,0 +1,70 @@
+{
+	"info": {
+		"_postman_id": "80b288f2-4150-439c-9ed4-24fc29c5d065",
+		"name": "nada",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24770024"
+	},
+	"item": [
+		{
+			"name": "insert new",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "return all",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "return one",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://nada-kgnusuvzma-uc.a.run.app/one/?name=Međugorje",
+					"protocol": "https",
+					"host": [
+						"nada-kgnusuvzma-uc",
+						"a",
+						"run",
+						"app"
+					],
+					"path": [
+						"one",
+						""
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Međugorje"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
