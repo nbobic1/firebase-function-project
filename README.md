@@ -1,3 +1,6 @@
+#About
+Firebase functions node.js project build for job tryouts at Nada. CRUD operations on firestore
+
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
